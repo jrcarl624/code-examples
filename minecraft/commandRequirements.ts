@@ -1,7 +1,3 @@
-
-
-
-
 // not sure what to type the args so I left it any for now
 type requirement = (...args: any[]) => {error:boolean, errorMessage?:string}
 interface options {
